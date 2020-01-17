@@ -11,9 +11,13 @@ Completion time: One week
 
 Presentation Video Link:
 https://www.youtube.com/watch?v=zA72cyCJqOg&feature=youtu.be
+
 Presentation Date: August 26, 2019
+
 Location: NYC Data Science Academy
+
 Speakers and teammates: Fred(Lefan) Cheng, Paul Dingus, Wenjun Ma, Haoyun Zhang 
 
 My Linkedin: https://www.linkedin.com/in/lefancheng/
+
 My Email: fredchengnyc@gmail.com
